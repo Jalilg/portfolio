@@ -97,7 +97,7 @@
   document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
     var adobeDCView = new AdobeDC.View({clientId: "f00b80c32b5d4932a907f22f968f43b2", divId: "adobe-dc-view"});
     adobeDCView.previewFile({
-      content:{promise: "<FILE_BLOB_PROMISE>"},
+      content:{location: {url: "https://github.com/Jalilg/portfolio/raw/master/assets/docs/200326_Gault_complete_CV.pdf"}},
       metaData:{fileName: "<FILE_NAME>"}
     }, {});
   });
