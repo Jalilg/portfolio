@@ -224,7 +224,7 @@ CROSS JOIN LATERAL
 |-----------|--------|----------------|
 | Oak Hill Apartments Loop | 767734667 | 0.01679977936581504 |
 | Oak Hill Apartments Loop | 767734665 | 0.016140143234183203 |
-| Enterprise Av & Fort Mifflin Rd | 690041863 | 0.014722507496355001 |
+| Enterprise Av & Fort Mifflin Rd |  | 0.014722507496355001 |
 | Enterprise Av & Fort Mifflin Rd | 489426102 | 0.014525954999586421 |
 | Enterprise Av & Fort Mifflin Rd | 690041864 | 0.014514947559328646 |
 
